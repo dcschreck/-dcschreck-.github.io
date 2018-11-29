@@ -11,14 +11,14 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Full-Stack Web Developer</h1>
-     <p>I'm a DC based developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <p>Second-career developer solving problems with React, HTML, CSS, and Ruby.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and coffee.
 
   # Icons
   rss: false
-  email_address: dcschreck421@gmail.com # Full email address, e.g. "sam@example.com"
+  email_address: douglas.c.schreck@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
@@ -27,7 +27,7 @@ theme_settings:
   github: dcschreck # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  www.linkedin.com/in/douglas-schreck-3046a537
   pinterest:
   reddit:
   soundcloud:

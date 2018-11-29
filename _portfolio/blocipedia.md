@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Blocipedia
-thumbnail-path: "img/blocipedia.png"
-short-description: Build a production quality SaaS app that allows users to create their own wikis.
+title: DiscussIt
+thumbnail-path: "img/discuss-it.png"
+short-description: A discussion-forum app. Sign up, add posts, and up-vote your favorites. Built with Rails.
 
 ---
 

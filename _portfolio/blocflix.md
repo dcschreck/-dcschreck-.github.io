@@ -1,8 +1,8 @@
 ---
 layout: post
-title: BlocFlix
-thumbnail-path: "img/blocflix.png"
-short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
+title: ChattyApp
+thumbnail-path: "img/chatty-app.png"
+short-description: Chat with friends via this web app by signing in with your Gmail. Built with JavaScript (React) and Firebase.
 
 ---
 

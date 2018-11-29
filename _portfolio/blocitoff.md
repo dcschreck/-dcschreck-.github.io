@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Blocitoff
-thumbnail-path: "img/blocitoff.png"
-short-description: Build a self-destructing to-do list application.
+title: RockOn!!
+thumbnail-path: "img/rock-on.png"
+short-description: Load up your favorite albums and rock out via this web application. Built with Rails.
 
 ---
 
