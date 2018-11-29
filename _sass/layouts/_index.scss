@@ -90,8 +90,10 @@
           box-shadow: 2px 2px 2px lightgrey;
           margin-bottom: 2%;
       }
-      p a:hover {
-        @extend %link-hover;
+      .title {
+          margin-bottom: 0.5em;
+          color: #0070BB;
+          font-weight: bold;
       }
       .primary-btn {
           font-size: 0.8em;
@@ -115,17 +117,17 @@
           text-transform: uppercase;
           position: relative;
       }
-    .primary-btn:focus {
+      .primary-btn:focus {
         outline: none;
-    }
-    .primary-btn:hover {
+      }
+      .primary-btn:hover {
         background: #0070BB;
         color: #fff;
+      }
+      .excerpt {
+        margin-top: 1em;
+      }
     }
-    .excerpt {
-      margin-top: 1em;
-    }
-  }
 }
 // Pagination
 .pagination .button {

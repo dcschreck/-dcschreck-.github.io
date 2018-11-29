@@ -9,9 +9,9 @@ layout: default
     {% for project in site.portfolio limit:3 %}
     <li>
           <img class="work-image" src="{{ project.thumbnail-path }}" alt="{{ project.title }}"/>
-          <a href="{{ project.url }}">{{ project.title }}</a>
+          <p class="title">{{ project.title }}</p>
           <p>{{ project.short-description }}</p>
-          <button class='primary-btn'>Link to Github</button>
+          <a href="https://github.com/dcschreck/{{ project.link }}" target="_blank" class='primary-btn'>Link to Github</a>
     </li>
     {% endfor %}
   </div>

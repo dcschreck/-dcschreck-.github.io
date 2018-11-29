@@ -10,7 +10,7 @@ If you'd like to discuss my portfolio, job opportunities, or anything tech relat
 <form action="https://getsimpleform.com/messages?form_api_token=b818a1e50fb18d867b405c3455752eac" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <!-- <input type='hidden' name='redirect_to' value='http://dcschreck.github.io/thank-you/' /> -->
-  <input type='hidden' name='redirect_to' value='http://127.0.0.1:4000/thank-you/' />
+  <input type='hidden' name='redirect_to' value='https://dcschreck.github.io/portfolio/thank-you/' />
 
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
