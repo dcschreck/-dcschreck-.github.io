@@ -11,7 +11,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Full-Stack Web Developer</h1>
-     <p>Second-career developer solving problems with React, HTML, CSS, Node.js, and MongoDB.</p>
+     <p>Second-career developer solving problems with React, Node.js, MongoDB, and Ruby on Rails.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and coffee.

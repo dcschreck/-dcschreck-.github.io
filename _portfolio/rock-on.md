@@ -1,8 +1,8 @@
 ---
 layout: post
-title: RockOn!!
-link: rock-on
-thumbnail-path: "img/rock-on.png"
-short-description: Load up your favorite albums and rock out via this web application. Built with JavaScript (AngularJS).
+title: DiscussIt
+link: discuss-it
+thumbnail-path: "img/discuss-it.png"
+short-description: A discussion forum app. Sign up, add posts, and up-vote your favorites. Built with Ruby on Rails.
 
 ---
